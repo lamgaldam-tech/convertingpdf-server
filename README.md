@@ -1,14 +1,8 @@
 # 📄 ConvertingPDF Server
 
-This is the **backend server** for the [ConvertingPDF web app](https://younes-alhyan.github.io/convertingpdf/) — a tool that lets you merge, split, compress, edit, and convert PDF files to other formats.
+This is the **backend server** for the [ConvertingPDF web app](https://lamgaldam-tech.github.io/convertingpdf/) — a tool that lets you merge, split, compress, edit, and convert PDF files to other formats.
 
 The server is built with **Flask**, provides a REST API for PDF processing, and handles **user authentication**, **email verification**, and **conversion history tracking**.
-
-## 🤝 Contributions
-
-I contributed mainly to linking the **backend server** with the web app, handling authentication, and integrating PDF tools.
-
-Frontend handled by my teammate: [ConvertingPDF repo](https://github.com/lamgaldamtechnology/convertingpdf).
 
 ## 📑 Table of Contents
 
